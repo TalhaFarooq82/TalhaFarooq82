@@ -12,8 +12,8 @@
 - 👯 I’m looking to collaborate on **AI / Full-stack projects**
 - 🤝 I’m looking for help with **open-source contributions**
 - 💬 Ask me about **Python, AI, JavaScript, React, Node.js**
-- 📫 How to reach me: **YOUR_EMAIL@gmail.com**
-- ⚡ Fun fact: I love exploring new AI tools and building cool stuff
+- 📫 How to reach me: **talha.farooq6625.com**
+- ⚡ Fun fact: I love to learn the latest AI concepts, explore new AI tools, and build cool stuff
 
 <br/>
 
