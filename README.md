@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Deep Learning and advanced AI concepts**
 - 👯 I’m looking to collaborate on **AI and Full-stack projects**
 - 🤝 I’m open to helping with **open-source contributions**
-- 💬 Ask me about **Python, Machine Learning, Django, FastAPI, React.js**
+- 💬 Ask me about **Python, Machine Learning, Django, FastAPI, React.js, MySQL, PostgreSQL**
 - 📫 How to reach me: **talha.farooq6625@gmail.com**
 - ⚡ Fun fact: I love exploring the latest AI concepts, tools, and building cool stuff
 
@@ -19,7 +19,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,html,css,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,html,css,mysql,postgresql,git,github,vscode,linux" />
 </p>
 
 <br/>
